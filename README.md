@@ -1,2 +1,2 @@
-# Onnenpy-r-
+# Onnenpyörä
 Onnenpyörä-pelin tekstiversio komentoriviltä
